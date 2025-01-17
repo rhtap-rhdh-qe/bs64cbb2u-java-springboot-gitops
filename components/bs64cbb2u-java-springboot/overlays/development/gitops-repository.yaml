@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bs64cbb2u-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/bs64cbb2u-java-springboot-gitops
